@@ -1,0 +1,28 @@
+{ 
+    
+    "Iklan": [
+        {
+       
+        "appid": "pub-3940256099942544",
+        "admobappid": "ca-app-pub-8074230319419198~3870167875",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "bannerid":"ca-app-pub-3940256099942544/6300978111",
+
+        "pengaturan_iklan":"3",
+      
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner":"549167759165615_549192715829786",
+
+        "startappid":"123456789",
+
+
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ]
+}
